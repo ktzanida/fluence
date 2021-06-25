@@ -1,0 +1,14 @@
+{
+  "name": "ipfs_effector",
+  "mounted_binaries":
+  {
+    "ipfs": "/opt/homebrew/bin/ipfs"
+  },
+  "mem_page_count": 1,
+  "preopened_files": [
+    "/tmp"
+  ],
+  "mapped_dirs": {
+    "tmp": "./tmp"
+  }
+}
