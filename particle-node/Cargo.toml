@@ -26,7 +26,6 @@ air-interpreter-wasm = "=0.19.8"
 avm-server = "0.13.0"
 
 libp2p = "0.42"
-
 futures = "0.3.13"
 async-std = { version = "1.6.5", features = ["unstable"] }
 

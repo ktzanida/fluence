@@ -15,7 +15,6 @@ fluence-keypair = { git = "https://github.com/fluencelabs/trust-graph", branch =
 
 libp2p = "0.42"
 
-
 serde = { version = "1.0.118", features = ["derive"] }
 humantime-serde = "1.0.1"
 
