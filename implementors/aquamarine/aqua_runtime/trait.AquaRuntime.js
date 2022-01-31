@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["toy_vms"] = [{"text":"impl <a class=\"trait\" href=\"aquamarine/aqua_runtime/trait.AquaRuntime.html\" title=\"trait aquamarine::aqua_runtime::AquaRuntime\">AquaRuntime</a> for <a class=\"struct\" href=\"toy_vms/struct.EasyVM.html\" title=\"struct toy_vms::EasyVM\">EasyVM</a>","synthetic":false,"types":["toy_vms::easy_vm::EasyVM"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

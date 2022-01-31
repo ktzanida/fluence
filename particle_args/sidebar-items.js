@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["AVMError",""],["ArgsError",""]],"fn":[["from_base58",""]],"struct":[["Args","Arguments passed by VM to host on call_service"],["JError","An error that can be created from any other error Simplifies life by converting errors to be returnable from host closures"]]});

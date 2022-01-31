@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["particle_args"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/convert/trait.TryFrom.html\" title=\"trait core::convert::TryFrom\">TryFrom</a>&lt;CallRequestParams&gt; for <a class=\"struct\" href=\"particle_args/struct.Args.html\" title=\"struct particle_args::Args\">Args</a>","synthetic":false,"types":["particle_args::args::Args"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

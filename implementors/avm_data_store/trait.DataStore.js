@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["aquamarine"] = [{"text":"impl DataStore&lt;<a class=\"enum\" href=\"aquamarine/enum.DataStoreError.html\" title=\"enum aquamarine::DataStoreError\">DataStoreError</a>&gt; for <a class=\"struct\" href=\"aquamarine/struct.ParticleDataStore.html\" title=\"struct aquamarine::ParticleDataStore\">ParticleDataStore</a>","synthetic":false,"types":["aquamarine::particle_data_store::ParticleDataStore"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
